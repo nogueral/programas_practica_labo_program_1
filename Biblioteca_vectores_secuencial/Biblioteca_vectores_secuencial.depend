@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586887532 source:c:\users\cx slim\desktop\bibliotecas_c\biblioteca_vectores_secuencial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1586888793 source:c:\users\cx slim\desktop\bibliotecas_c\biblioteca_vectores_secuencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586888275 c:\users\cx slim\desktop\bibliotecas_c\biblioteca_vectores_secuencial\funciones.h
+

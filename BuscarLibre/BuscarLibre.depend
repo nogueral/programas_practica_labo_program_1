@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587149293 source:c:\users\cx slim\documents\programas_c\buscarlibre\funciones.c
+	<stdio.h>
+	<stdlib.h>
+

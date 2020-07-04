@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1593475122 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\funciones.c
+	"funciones.h"
+
+1593473462 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593472770 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+
+1593471953 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\linkedlist.h
+
+1593475642 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+	"Controller.h"
+	"funciones.h"
+	"piloto.h"
+	"vuelo.h"
+
+1593475734 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\controller.h
+	<stdio.h>
+	<stdlib.h>
+
+1593471870 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593472770 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593476030 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\controller.c
+	"piloto.h"
+	"vuelo.h"
+	"parser.h"
+	"funciones.h"
+	"Linkedlist.h"
+
+1593467973 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\parser.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"vuelo.h"
+	"piloto.h"
+
+1593468319 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\parser.c
+	"parser.h"
+
+1593474456 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\piloto.c
+	"piloto.h"
+
+1593472828 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_2\vuelo.c
+	"vuelo.h"
+

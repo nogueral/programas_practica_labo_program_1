@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1589813907 source:c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\clientes.c
+	"clientes.h"
+
+1589813907 c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\clientes.h
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1589668477 c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\funciones.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1589669044 source:c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\clientesmascotas.c
+	"ClientesMascotas.h"
+
+1589668477 c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\clientesmascotas.h
+	"funciones.h"
+	"clientes.h"
+	"mascotas.h"
+
+1589813907 c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\mascotas.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1589668555 source:c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\funciones.c
+	"funciones.h"
+
+1589813907 source:c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\mascotas.c
+	"mascotas.h"
+
+1589814946 source:c:\users\cx slim\documents\programas_c\parcial1_laboratorio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesMascotas.h"
+

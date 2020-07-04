@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1592865029 source:c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"Controller.h"
+	"Employee.h"
+	"funciones.h"
+
+1592668053 source:c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1592668053 c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\employee.h
+
+1592681192 source:c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+
+1592677627 c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\linkedlist.h
+
+1592680989 source:c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"Employee.h"
+
+1592864952 source:c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+	"Employee.h"
+	"Parser.h"
+	"funciones.h"
+
+1592668053 c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\parser.h
+
+1592676688 c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1592676814 source:c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\funciones.c
+	"funciones.h"
+
+1592864952 c:\users\cx slim\desktop\bibliotecas_c\testing_linkedlist\controller.h
+

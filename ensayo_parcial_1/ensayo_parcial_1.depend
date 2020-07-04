@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1592856686 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\funciones.c
+	"funciones.h"
+
+1592842924 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1593044564 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\controller.c
+	"Linkedlist.h"
+	"Usuarios.h"
+	"Mensajes.h"
+
+1593044526 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\linkedlist.h
+
+1592843483 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593044687 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593044606 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linkedlist.h"
+
+1592860309 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+	"Controller.h"
+	"funciones.h"
+
+1592856686 c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\controller.h
+	<stdio.h>
+	<stdlib.h>
+
+1592944270 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\mensajes.c
+	"Mensajes.h"
+
+1592944437 source:c:\users\cx slim\desktop\bibliotecas_c\ensayo_parcial_1\usuarios.c
+	"Usuarios.h"
+

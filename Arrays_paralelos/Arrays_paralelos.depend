@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1587492237 source:c:\users\cx slim\documents\programas_c\arrays_paralelos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1587490726 source:c:\users\cx slim\documents\programas_c\arrays_paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1587492353 c:\users\cx slim\documents\programas_c\arrays_paralelos\funciones.h
+

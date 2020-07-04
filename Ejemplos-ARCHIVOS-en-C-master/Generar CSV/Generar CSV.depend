@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590721219 source:c:\users\cx slim\desktop\ejemplos-archivos-en-c-master\generar csv\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588875854 source:c:\users\cx slim\documents\programas_c\ensayo_parcial_laboratorio_2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"abonado.h"
+
+1588875854 c:\users\cx slim\documents\programas_c\ensayo_parcial_laboratorio_2016\abonado.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1588792481 source:c:\users\cx slim\documents\programas_c\ensayo_parcial_laboratorio_2016\abonado.c
+	"abonado.h"
+
